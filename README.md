@@ -60,7 +60,7 @@ A higher score indicates greater ESG risk exposure.
 ---
 
 4. Major Dashboard Components (Explained in Simple Terms)
-![Sales Report Dashboard](Sales%20Report.png)
+![Sales Report Dashboard](ESG Risk Analysis.png)
 Below is a breakdown of the dashboard visuals and what they convey.
 
 🟢 4.1 ESG Risk Level Distribution
