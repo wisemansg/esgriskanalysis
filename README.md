@@ -1,8 +1,7 @@
-📘 S&P 500 ESG Risk Analysis – Full Documentation
+ # **📘S&P 500 ESG RISK ANALYSIS – FULL DOCUMENTATION**
 
----
 
-1. Overview
+**1. Overview**
 
 This dashboard provides an environmental, social, and governance (ESG) risk assessment of companies in the S&P 500 index. The goal is to evaluate how exposed these companies are to sustainability-related risks and how this varies across industries, sectors, and company characteristics.
 
@@ -10,7 +9,8 @@ The dashboard was developed using Power BI and leverages visual analytics to mak
 
 ---
 
-2. Purpose of the Analysis
+**2. Purpose of the Analysis**
+
 
 The primary objectives were to:
 
@@ -21,46 +21,48 @@ The primary objectives were to:
 • Visualize controversy levels affecting companies  
 • Provide benchmarks for sustainable investment decision-making  
 
-## 📁 Dataset Used
+**## 📁 Dataset Used**
 
 The dataset contains 12 months of sales records for 2021, including fields such as:
 
 Dataset Columns:
 
-• Sector – Broad industry classification
-• Industry – Specific industry category
-• Full-Time Employees – Total workforce size
-• Total ESG Risk Score – Overall ESG risk rating
-• Environment Risk Score – Risk associated with environmental factors
-• Governance Risk Score – Risk linked to corporate governance practices
-• Social Risk Score – Risk related to social responsibility and policies
-• Controversy Level – Classification of company controversies
-• Controversy Score – Numerical score reflecting controversy impact
-• ESG Risk Percentile – Ranking compared to peers in terms of ESG risk
-• ESG Risk Level – Qualitative ESG risk assessment (e.g., Low, Medium, High)
+- Sector – Broad industry classification
+- Industry – Specific industry category
+- Full-Time Employees – Total workforce size
+- Total ESG Risk Score – Overall ESG risk rating
+- Environment Risk Score – Risk associated with environmental factors
+- Governance Risk Score – Risk linked to corporate governance practices
+- Social Risk Score – Risk related to social responsibility and policies
+- Controversy Level – Classification of company controversies
+- Controversy Score – Numerical score reflecting controversy impact
+- ESG Risk Percentile – Ranking compared to peers in terms of ESG risk
+- ESG Risk Level – Qualitative ESG risk assessment (e.g., Low, Medium, High)
 
-Dataset Link: `<a href="(PROJECT1) CustomerMaster.csv">SP 500 ESG Risk Ratings.csv</a>`
+
+Dataset Link: [Download SP 500 ESG Risk Ratings.csv](SP%20500%20ESG%20Risk%20Ratings.csv)
 
 This dataset enables in-depth ESG analysis, trend identification, and risk assessment, helping stakeholders understand the sustainability and governance practices of leading corporations.
 
 ---
 
-3. Key ESG Metrics Displayed
+**3. Key ESG Metrics Displayed**
 
 The dashboard summarizes four major KPIs:
 
-Metric	Meaning  
-Avg Total ESG Risk Score: 21.53	Combined overall ESG exposure  
-Avg Environmental Score: 5.74	Exposure to environmental risks  
-Avg Social Score: 9.07	Exposure to social risks  
-Avg Governance Score: 6.73	Exposure to governance risks  
+- Avg Total ESG Risk Score: 21.53 – Combined overall ESG exposure
+- Avg Environmental Score: 5.74 – Exposure to environmental risks
+- Avg Social Score: 9.07 – Exposure to social risks
+- Avg Governance Score: 6.73 – Exposure to governance risks
 
 A higher score indicates greater ESG risk exposure.
 
 ---
 
-4. Major Dashboard Components (Explained in Simple Terms)
-![Sales Report Dashboard](ESG Risk Analysis.png)
+**4. Major Dashboard Components**
+   
+![ESG Risk Analysis](ESG%20Risk%20Analysis.png)
+
 Below is a breakdown of the dashboard visuals and what they convey.
 
 🟢 4.1 ESG Risk Level Distribution
@@ -153,7 +155,7 @@ A central globe visual reinforces the global sustainability context by emphasizi
 
 ---
 
-5. Filters and Interactivity
+**5. Filters and Interactivity**
 
 The dashboard includes two main filters:
 
@@ -164,7 +166,7 @@ These filters allow users to drill into specific segments for further detail and
 
 ---
 
-📊 6. Results Interpretation
+**📊 6. Results Interpretation**
 
 Key Findings:
 
@@ -177,7 +179,7 @@ Key Findings:
 
 ---
 
-💡 7. Business Implications
+**💡 7. Business Implications**
 
 From the perspective of various stakeholder groups:
 
@@ -188,7 +190,7 @@ From the perspective of various stakeholder groups:
 
 ---
 
-🏁 8. Conclusion
+**🏁 8. Conclusion**
 
 The ESG Risk Analysis on the S&P 500 shows that most companies are not facing severe ESG distress. However, certain sectors, particularly Energy, Materials, and Utilities, face heightened sustainability pressures due to environmental exposure and regulatory scrutiny. Social and governance issues are rising in importance alongside environmental considerations. ESG risk has become a measurable factor that influences valuation, compliance strategy, and stakeholder perception across financial markets.
 
